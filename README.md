@@ -71,7 +71,7 @@ Corporate ~21%, Home Office ~32%.
 
 ## How to Use
 1. Clone/download the repo
-2. Open `Superstore_Sales_Dashboard.pbix` in Power BI Desktop
+2. Open `Superstore_Project.pbix` in Power BI Desktop
 3. Interact with slicers to filter by year, region, category, etc.
 
 
