@@ -23,39 +23,41 @@ Slicers enable filtering by year, region, category, and segment. Key insights in
 ## Key Business Insights
 Key Business Insights from Your Dashboard
 
-Overall Performance
-Total Sales: $2.30 Million across 2014–2017
-Total Profit: $286,400 (healthy but only ~12.5% margin on average)
-Average Profit Margin: ~12% (varies a lot by category, month, discount level)
-Total Quantity Sold: ~38,000 units
+**Overall Performance**
+**Total Sales**: $2.30 Million across 2014–2017
+**Total Profit**: $286,400 (healthy but only ~12.5% margin on average)
+
+**Average Profit Margin**: ~12% (varies a lot by category, month, discount level)
+**Total Quantity Sold**: ~38,000 units
 → Strong top-line revenue, but profitability is moderate — discounts and certain categories drag it down.
 
-Seasonality & Time Trends (Page 1)
+**Seasonality & Time Trends (Page 1)**
 Sales peak strongly in Q4 (October–December) — November & December often double or triple low months like January/February.
 Profit follows sales but with bigger swings (peaks in March & Nov–Dec, some low/negative months).
 Profit Margin % spikes in high-sales months but drops when discounts rise.
-→ Business takeaway: Plan inventory, marketing, and staffing heavily for holiday/Q4 season. Investigate why early-year months underperform (possibly post-holiday slowdown + higher discounts?).
+→ **Business takeaway**: Plan inventory, marketing, and staffing heavily for holiday/Q4 season. 
+Investigate why early-year months underperform (possibly post-holiday slowdown + higher discounts?).
 
-Regional Performance (Page 1)
+**Regional Performance (Page 1)**
 West region leads in both Sales (~highest bar) and Profit (top of the area chart ~100K+).
 East close second in sales, but profit drops noticeably.
-Central and South lag behind — lowest sales and especially lowest profit (Central often weakest).
-→ Recommendation: Focus expansion/retention efforts in West & East. Investigate issues in Central (higher discounts? weaker product mix? competition?).
+Central and South lag behind: lowest sales and especially lowest profit (Central often weakest).
+→ **Recommendation**: Focus expansion/retention efforts in West & East. Investigate issues in Central (higher discounts? weaker product mix? competition?).
 
-Category & Sub-Category Performance (Page 2)
+**Category & Sub-Category Performance (Page 2)**
 Technology category delivers highest profit per your scatter plot (blue dot high on Y-axis) despite moderate average discount. Phones & Copiers stand out as top profit drivers.
 Office Supplies has solid sales volume but lower profit contribution.
-Furniture suffers — high sales in some sub-categories (Chairs, Tables, Storage) but often low/negative profit (likely due to high discounts).
+Furniture suffers: high sales in some sub-categories (Chairs, Tables, Storage) but often low/negative profit (likely due to high discounts).
 Top profit sub-categories: Copiers, Phones, Accessories, Paper, Binders.
 Weakest: Tables, Bookcases, Supplies, some Appliances (negative profit bars).
-→ Insight: Prioritize Technology push (highest ROI). Reduce aggressive discounting on Furniture — it's eating into margins.
+**→ Insight**: Prioritize Technology push (highest ROI). Reduce aggressive discounting on Furniture :it's eating into margins.
 
-Discount Impact (Scatter Plot)
+**Discount Impact (Scatter Plot)**
 Higher average discount (~0.18) correlates with lower profit (green Technology dot at low discount = high profit; orange Furniture/Supplies at higher discount = lower profit).
 → Key red flag: Discounts are a major profit killer, especially in Furniture & some Office Supplies. Consider targeted discount strategy (e.g., volume-based only for high-margin items).
 
-Customer Segment (Pie Chart)
-Consumer segment drives ~46% of profit — largest slice.
+**Customer Segment (Pie Chart)**
+Consumer segment drives ~46% of profit: largest slice.
 Corporate ~21%, Home Office ~32%.
 → All segments contribute positively, but Consumer is the volume driver. Tailor promotions/loyalty for them.
 
